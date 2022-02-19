@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Graduando em Economia pela UFF Assistente de pesquisa e bolsista de Iniciação Científica (CEDE/UFF)",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-19T02:01:42-03:00"
+      "last_modified": "2022-02-19T02:24:37-03:00"
     },
     {
       "path": "index.html",
       "title": "Arthur Gusmão",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-19T02:14:50-03:00"
+      "last_modified": "2022-02-19T02:24:04-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

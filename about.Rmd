@@ -1,9 +1,10 @@
 ---
-title: "About this blog"
+title: "Arthur Gusmão"
 description: |
-  Some additional details about the blog
+  Graduando em Economia pela UFF Assistente de pesquisa e bolsista de Iniciação Científica (CEDE/UFF)
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+

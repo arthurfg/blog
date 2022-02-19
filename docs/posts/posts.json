@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-02-19-case-base-dos-dados/",
+    "title": "Case Base dos Dados",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Arthur Gusmão",
+        "url": "https://github.com/arthurfg"
+      }
+    ],
+    "date": "2022-02-19",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-19T02:19:56-03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Arthur",
     "description": "Welcome to our new blog, Arthur. We hope you enjoy \nreading what we have to say!",
