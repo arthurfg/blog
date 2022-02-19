@@ -1,5 +1,5 @@
 ---
-title: "Arthur"
+title: "Arthur Gusmão"
 site: distill::distill_website
 listing: posts
 ---
